@@ -1,5 +1,5 @@
 # pfczm-comsol
-Phase-field cohesive zone modeling of fracture in multi-physics problems and the open-source implementation in Comsol Multiphysics.
+Comsol Multiphysics implementation of phase-field cohesive zone models for fracture in multi-physics problems
 
 Note: All the examples have been tested on Comsol Multiphysics 5.6.0.280.
 
