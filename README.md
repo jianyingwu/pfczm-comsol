@@ -17,4 +17,4 @@ Wu, J. Y. and Nguyen, V.P., 2018. A length scale insensitive phase-field damage 
 
 Wu, J. Y. and Chen, W. X., 2021. Phase-field modeling of electromechanical fracture in piezoelectric solids: Analytical results and numerical simulations. Computer Methods in Applied Mechanics and Engineering, under review.
 
-Chen, W. X. and Wu, J. Y., 2021. Phase-field cohesive zone modeling of fracture in multi-physics problems and the open-source implementation in Comsol Multiphysics. Computer Methods in Applied Mechanics and Engineering, submitted.
+Chen, W. X. and Wu, J. Y., 2021. Phase-field cohesive zone modeling of fracture in multi-physics problems and the open-source implementation in Comsol Multiphysics. Engineering Fracture Mechanics, under review.
